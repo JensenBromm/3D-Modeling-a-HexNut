@@ -3,9 +3,6 @@ package Assignment10;
 import javax.vecmath.*;
 import javax.media.j3d.*;
 import com.sun.j3d.utils.geometry.*;
-import javax.media.j3d.*;
-import javax.vecmath.*;
-
 
 public class HexNut extends Shape3D{
 	public HexNut() {

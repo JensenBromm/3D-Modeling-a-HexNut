@@ -2,17 +2,14 @@ package Assignment10;
 
 import javax.vecmath.*;
 import java.awt.*;
-import java.awt.event.*;
 import javax.media.j3d.*;
 import com.sun.j3d.utils.universe.*;
-import com.sun.j3d.utils.geometry.*;
 import java.applet.*;
 import com.sun.j3d.utils.applet.MainFrame;
 
 public class assignment10 extends Applet {
 
     public static void main(String[] args) {
-    	//Set no erase background
         new MainFrame(new assignment10(), 650, 480);
     }
 
